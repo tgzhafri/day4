@@ -240,7 +240,7 @@ nav ul li:hover {
     width: 250px;
     height: 250px;
     display: flex;
-    padding: 0 20px;
+    padding: 1rem;
     flex-direction: column;
     justify-content: space-evenly;
     align-items: flex-start;
